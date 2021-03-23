@@ -3,4 +3,4 @@
 
 ### Demo Screenshot
 
-![alt text](https://github.com/yuchida-tamu/audioVisualizer/blob/main/demo1.png?raw=true)
+![alt text](https://github.com/yuchida-tamu/audioVisualizer/blob/main/demo/demo1.png?raw=true)
